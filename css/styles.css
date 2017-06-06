@@ -1,7 +1,10 @@
 body {
-  background-image: url("img/cleo.jpg");
+  background-image: url(https://i.kinja-img.com/gawker-media/image/upload/s--LBcE2Kay--/nozt5w1yr38i7tmecwpc.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  color: salmon;
+  text-shadow: 1px 1px black;
+
 }
 
 #sucky {

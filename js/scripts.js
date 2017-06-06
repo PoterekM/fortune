@@ -16,8 +16,10 @@ $(document).ready(function() {
     });
     if (userResponseB.length >= userResponseG.length) {
       $("#sucky").show();
+      $("#fortune").hide();
     } else {
       $("#lucky").show();
+      $("#fortune").hide();
     }
 });
 });
