@@ -1,0 +1,13 @@
+body {
+  background-image: url("img/cleo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#sucky {
+  display: none;
+}
+
+#lucky {
+  display: none;
+}
